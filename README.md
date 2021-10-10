@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumankhatri404&show_icons=true&theme=cobalt">
+<img src="https://github-readme-stats.vercel.app/api?username=sumankhatri404&show_icons=true&theme=dark">
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sumankhatri404&show_icons=true&theme=cobalt&layout=compact">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sumankhatri404&show_icons=true&theme=dark&layout=compact">
 
 
 <!--
