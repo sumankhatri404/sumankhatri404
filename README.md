@@ -4,7 +4,7 @@ Github Statistics:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sumankhatri404&show_icons=true&theme=merko">
 
-Mostly Used Languages:
+<h5>Mostly Used Languages:</h5>
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sumankhatri404&show_icons=true&theme=merko&layout=compact">
 
