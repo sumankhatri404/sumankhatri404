@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there I'm Suman Khatri :) 👋
 
-Github Statistics:
+<b>Github Statistics:</b>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sumankhatri404&show_icons=true&theme=merko">
 
-<h5>Mostly Used Languages:</h5>
+<b>Mostly Used Languages:</b>
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sumankhatri404&show_icons=true&theme=merko&layout=compact">
 
