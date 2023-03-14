@@ -21,7 +21,7 @@
 
 <b>Github Statistics:</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumankhatri404&show_icons=true&theme=merko">
+<img src="https://github-readme-stats.sigma-five.vercel.app/api?username=sumankhatri404&show_icons=true&theme=merko">
 
 <b>Mostly Used Languages:</b>
 
