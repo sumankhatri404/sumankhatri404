@@ -25,7 +25,7 @@
 
 <b>Mostly Used Languages:</b>
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sumankhatri404&show_icons=true&theme=merko&layout=compact">
+<img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumankhatri404&show_icons=true&theme=merko&layout=compact">
 
 
 
